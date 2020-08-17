@@ -1,0 +1,760 @@
+1PP							3PP																								
+PHASE			EXP TIME	video time	HR		PHASE			EXP TIME	video time	HR																			
+BASELINE	static	0	  0:00:00	00:00:26	87		BASELINE	static	0	  0:00:00	00:00:16	95																			
+BASELINE	static	0	  0:00:01	00:00:27	88		BASELINE	static	0	  0:00:01	00:00:17	95																			
+BASELINE	static	0	  0:00:02	00:00:28	88		BASELINE	static	0	  0:00:02	00:00:18	93																			
+BASELINE	static	0	  0:00:03	00:00:29	88		BASELINE	static	0	  0:00:03	00:00:19	93																			
+BASELINE	static	0	  0:00:04	00:00:30	88		BASELINE	static	0	  0:00:04	00:00:20	93																			
+BASELINE	static	0	  0:00:05	00:00:31	88		BASELINE	static	0	  0:00:05	00:00:21	93																			
+BASELINE	static	0	  0:00:06	00:00:32	88		BASELINE	static	0	  0:00:06	00:00:22	92																			
+BASELINE	static	0	  0:00:07	00:00:33	87		BASELINE	static	0	  0:00:07	00:00:23	93																			
+BASELINE	static	0	  0:00:08	00:00:34	87		BASELINE	static	0	  0:00:08	00:00:24	91																			
+BASELINE	static	0	  0:00:09	00:00:35	87		BASELINE	static	0	  0:00:09	00:00:25	90																			
+BASELINE	static	0	  0:00:10	00:00:36	87		BASELINE	static	0	  0:00:10	00:00:26	90																			
+BASELINE	static	0	  0:00:11	00:00:37	87		BASELINE	static	0	  0:00:11	00:00:27	90																			
+BASELINE	static	0	  0:00:12	00:00:38	86		BASELINE	static	0	  0:00:12	00:00:28	89																			
+BASELINE	static	0	  0:00:13	00:00:39	86		BASELINE	static	0	  0:00:13	00:00:29	89																			
+BASELINE	static	0	  0:00:14	00:00:40	86		BASELINE	static	0	  0:00:14	00:00:30	89																			
+BASELINE	static	0	  0:00:15	00:00:41	85		BASELINE	static	0	  0:00:15	00:00:31	90																			
+BASELINE	static	0	  0:00:16	00:00:42	85		BASELINE	static	0	  0:00:16	00:00:32	91																			
+BASELINE	static	0	  0:00:17	00:00:43	85		BASELINE	static	0	  0:00:17	00:00:33	94																			
+BASELINE	static	0	  0:00:18	00:00:44	85		BASELINE	static	0	  0:00:18	00:00:34	95																			
+BASELINE	static	0	  0:00:19	00:00:45	85		BASELINE	static	0	  0:00:19	00:00:35	93																			
+BASELINE	static	0	  0:00:20	00:00:46	85		BASELINE	static	0	  0:00:20	00:00:36	92																			
+BASELINE	static	0	  0:00:21	00:00:47	85		BASELINE	static	0	  0:00:21	00:00:37	91																			
+BASELINE	static	0	  0:00:22	00:00:48	85		BASELINE	static	0	  0:00:22	00:00:38	89																			
+BASELINE	static	0	  0:00:23	00:00:49	85		BASELINE	static	0	  0:00:23	00:00:39	89																			
+BASELINE	static	0	  0:00:24	00:00:50	86		BASELINE	static	0	  0:00:24	00:00:40	87																			
+BASELINE	static	0	  0:00:25	00:00:51	86		BASELINE	static	0	  0:00:25	00:00:41	87																			
+BASELINE	static	0	  0:00:26	00:00:52	86		BASELINE	static	0	  0:00:26	00:00:42	87																			
+BASELINE	static	0	  0:00:27	00:00:53	85		BASELINE	static	0	  0:00:27	00:00:43	87																			
+BASELINE	static	0	  0:00:28	00:00:54	85		BASELINE	static	0	  0:00:28	00:00:44	87																			
+BASELINE	static	0	  0:00:29	00:00:55	85		BASELINE	static	0	  0:00:29	00:00:45	86																			
+BASELINE	static	0	  0:00:30	00:00:56	85		BASELINE	static	0	  0:00:30	00:00:46	36																			
+BASELINE	static	0	  0:00:31	00:00:57	85		BASELINE	static	0	  0:00:31	00:00:47	86																			
+BASELINE	static	0	  0:00:32	00:00:58	85		BASELINE	static	0	  0:00:32	00:00:48	85																			
+BASELINE	static	0	  0:00:33	00:00:59	86		BASELINE	static	0	  0:00:33	00:00:49	85																			
+BASELINE	static	0	  0:00:34	00:01:00	86		BASELINE	static	0	  0:00:34	00:00:50	85																			
+BASELINE	static	0	  0:00:35	00:01:01	86		BASELINE	static	0	  0:00:35	00:00:51	85																			
+BASELINE	static	0	  0:00:36	00:01:02	86		BASELINE	static	0	  0:00:36	00:00:52	85																			
+BASELINE	static	0	  0:00:37	00:01:03	87		BASELINE	static	0	  0:00:37	00:00:53	85																			
+BASELINE	static	0	  0:00:38	00:01:04	86		BASELINE	static	0	  0:00:38	00:00:54	86																			
+BASELINE	static	0	  0:00:39	00:01:05	86		BASELINE	static	0	  0:00:39	00:00:55	85																			
+BASELINE	static	0	  0:00:40	00:01:06	86		BASELINE	static	0	  0:00:40	00:00:56	85																			
+BASELINE	static	0	  0:00:41	00:01:07	86		BASELINE	static	0	  0:00:41	00:00:57	86																			
+BASELINE	static	0	  0:00:42	00:01:08	87		BASELINE	static	0	  0:00:42	00:00:58	86																			
+BASELINE	static	0	  0:00:43	00:01:09	87		BASELINE	static	0	  0:00:43	00:00:59	87																			
+BASELINE	static	0	  0:00:44	00:01:10	87		BASELINE	static	0	  0:00:44	00:01:00	87																			
+BASELINE	static	0	  0:00:45	00:01:11	87		BASELINE	static	0	  0:00:45	00:01:01	88																			
+BASELINE	static	0	  0:00:46	00:01:12	87		BASELINE	static	0	  0:00:46	00:01:02	87																			
+BASELINE	static	0	  0:00:47	00:01:13	86		BASELINE	static	0	  0:00:47	00:01:03	87																			
+BASELINE	static	0	  0:00:48	00:01:14	85		BASELINE	static	0	  0:00:48	00:01:04	87																			
+BASELINE	static	0	  0:00:49	00:01:15	85		BASELINE	static	0	  0:00:49	00:01:05	87																			
+BASELINE	static	0	  0:00:50	00:01:16	85		BASELINE	static	0	  0:00:50	00:01:06	86																			
+BASELINE	static	0	  0:00:51	00:01:17	84		BASELINE	static	0	  0:00:51	00:01:07	86																			
+BASELINE	static	0	  0:00:52	00:01:18	83		BASELINE	static	0	  0:00:52	00:01:08	87																			
+BASELINE	static	0	  0:00:53	00:01:19	83		BASELINE	static	0	  0:00:53	00:01:09	86																			
+BASELINE	static	0	  0:00:54	00:01:20	83		BASELINE	static	0	  0:00:54	00:01:10	86																			
+BASELINE	static	0	  0:00:55	00:01:21	82		BASELINE	static	0	  0:00:55	00:01:11	86																			
+BASELINE	static	0	  0:00:56	00:01:22	82		BASELINE	static	0	  0:00:56	00:01:12	86																			
+BASELINE	static	0	  0:00:57	00:01:23	82		BASELINE	static	0	  0:00:57	00:01:13	35																			
+BASELINE	static	0	  0:00:58	00:01:24	82		BASELINE	static	0	  0:00:58	00:01:14	84																			
+BASELINE	static	0	  0:00:59	00:01:25	82		BASELINE	static	0	  0:00:59	00:01:15	84																			
+BASELINE	static	0	  0:01:00	00:01:26	81		BASELINE	static	0	  0:01:00	00:01:16	84																			
+BASELINE	static	0	  0:01:01	00:01:27	81		BASELINE	static	0	  0:01:01	00:01:17	84																			
+BASELINE	static	0	  0:01:02	00:01:28	81		BASELINE	static	0	  0:01:02	00:01:18	84																			
+BASELINE	static	0	  0:01:03	00:01:29	81		BASELINE	static	0	  0:01:03	00:01:19	85																			
+BASELINE	static	0	  0:01:04	00:01:30	80		BASELINE	static	0	  0:01:04	00:01:20	84																			
+BASELINE	static	0	  0:01:05	00:01:31	80		BASELINE	static	0	  0:01:05	00:01:21	84																			
+BASELINE	static	0	  0:01:06	00:01:32	80		BASELINE	static	0	  0:01:06	00:01:22	84																			
+BASELINE	static	0	  0:01:07	00:01:33	79		BASELINE	static	0	  0:01:07	00:01:23	84																			
+BASELINE	static	0	  0:01:08	00:01:34	79		BASELINE	static	0	  0:01:08	00:01:24	84																			
+BASELINE	static	0	  0:01:09	00:01:35	79		BASELINE	static	0	  0:01:09	00:01:25	85																			
+BASELINE	static	0	  0:01:10	00:01:36	79		BASELINE	static	0	  0:01:10	00:01:26	85																			
+BASELINE	static	0	  0:01:11	00:01:37	79		BASELINE	static	0	  0:01:11	00:01:27	85																			
+BASELINE	static	0	  0:01:12	00:01:38	79		BASELINE	static	0	  0:01:12	00:01:28	85																			
+BASELINE	static	0	  0:01:13	00:01:39	79		BASELINE	static	0	  0:01:13	00:01:29	85																			
+BASELINE	static	0	  0:01:14	00:01:40	80		BASELINE	static	0	  0:01:14	00:01:30	85																			
+BASELINE	static	0	  0:01:15	00:01:41	80		BASELINE	static	0	  0:01:15	00:01:31	85																			
+BASELINE	static	0	  0:01:16	00:01:42	80		BASELINE	static	0	  0:01:16	00:01:32	85																			
+BASELINE	static	0	  0:01:17	00:01:43	80		BASELINE	static	0	  0:01:17	00:01:33	85																			
+BASELINE	static	0	  0:01:18	00:01:44	80		BASELINE	static	0	  0:01:18	00:01:34	85																			
+BASELINE	static	0	  0:01:19	00:01:45	80		BASELINE	static	0	  0:01:19	00:01:35	85																			
+BASELINE	static	0	  0:01:20	00:01:46	80		BASELINE	static	0	  0:01:20	00:01:36	86																			
+BASELINE	static	0	  0:01:21	00:01:47	80		BASELINE	static	0	  0:01:21	00:01:37	86																			
+BASELINE	static	0	  0:01:22	00:01:48	80		BASELINE	static	0	  0:01:22	00:01:38	86																			
+BASELINE	static	0	  0:01:23	00:01:49	80		BASELINE	static	0	  0:01:23	00:01:39	87																			
+BASELINE	static	0	  0:01:24	00:01:50	80		BASELINE	static	0	  0:01:24	00:01:40	86																			
+BASELINE	static	0	  0:01:25	00:01:51	80		BASELINE	static	0	  0:01:25	00:01:41	86																			
+BASELINE	static	0	  0:01:26	00:01:52	80		BASELINE	static	0	  0:01:26	00:01:42	86																			
+BASELINE	static	0	  0:01:27	00:01:53	80		BASELINE	static	0	  0:01:27	00:01:43	86																			
+BASELINE	static	0	  0:01:28	00:01:54	80		BASELINE	static	0	  0:01:28	00:01:44	86																			
+BASELINE	static	0	  0:01:29	00:01:55	80		BASELINE	static	0	  0:01:29	00:01:45	85																			
+BASELINE	static	0	  0:01:30	00:01:56	80		BASELINE	static	0	  0:01:30	00:01:46	85																			
+BASELINE	static	0	  0:01:31	00:01:57	80		BASELINE	static	0	  0:01:31	00:01:47	86																			
+BASELINE	static	0	  0:01:32	00:01:58	80		BASELINE	static	0	  0:01:32	00:01:48	86																			
+BASELINE	static	0	  0:01:33	00:01:59	80		BASELINE	static	0	  0:01:33	00:01:49	36																			
+BASELINE	static	0	  0:01:34	00:02:00	80		BASELINE	static	0	  0:01:34	00:01:50	87																			
+BASELINE	static	0	  0:01:35	00:02:01	80		BASELINE	static	0	  0:01:35	00:01:51	87																			
+BASELINE	static	0	  0:01:36	00:02:02	80		BASELINE	static	0	  0:01:36	00:01:52	87																			
+BASELINE	static	0	  0:01:37	00:02:03	80		BASELINE	static	0	  0:01:37	00:01:53	87																			
+BASELINE	static	0	  0:01:38	00:02:04	80		BASELINE	static	0	  0:01:38	00:01:54	87																			
+BASELINE	static	0	  0:01:39	00:02:05	80		BASELINE	static	0	  0:01:39	00:01:55	87																			
+BASELINE	static	0	  0:01:40	00:02:06	80		BASELINE	static	0	  0:01:40	00:01:56	87																			
+BASELINE	static	0	  0:01:41	00:02:07	80		BASELINE	static	0	  0:01:41	00:01:57	88																			
+BASELINE	static	0	  0:01:42	00:02:08	80		BASELINE	static	0	  0:01:42	00:01:58	88																			
+BASELINE	static	0	  0:01:43	00:02:09	80		BASELINE	static	0	  0:01:43	00:01:59	87																			
+BASELINE	static	0	  0:01:44	00:02:10	80		BASELINE	static	0	  0:01:44	00:02:00	87																			
+BASELINE	static	0	  0:01:45	00:02:11	80		BASELINE	static	0	  0:01:45	00:02:01	87																			
+BASELINE	static	0	  0:01:46	00:02:12	80		BASELINE	static	0	  0:01:46	00:02:02	87																			
+BASELINE	static	0	  0:01:47	00:02:13	80		BASELINE	static	0	  0:01:47	00:02:03	87																			
+BASELINE	static	0	  0:01:48	00:02:14	80		BASELINE	static	0	  0:01:48	00:02:04	88																			
+BASELINE	static	0	  0:01:49	00:02:15	80		BASELINE	static	0	  0:01:49	00:02:05	88																			
+BASELINE	static	0	  0:01:50	00:02:16	80		BASELINE	static	0	  0:01:50	00:02:06	88																			
+BASELINE	static	0	  0:01:51	00:02:17	79		BASELINE	static	0	  0:01:51	00:02:07	89																			
+BASELINE	static	0	  0:01:52	00:02:18	80		BASELINE	static	0	  0:01:52	00:02:08	89																			
+BASELINE	static	0	  0:01:53	00:02:19	79		BASELINE	static	0	  0:01:53	00:02:09	88																			
+BASELINE	static	0	  0:01:54	00:02:20	79		BASELINE	static	0	  0:01:54	00:02:10	87																			
+BASELINE	static	0	  0:01:55	00:02:21	79		BASELINE	static	0	  0:01:55	00:02:11	87																			
+BASELINE	static	0	  0:01:56	00:02:22	79		BASELINE	static	0	  0:01:56	00:02:12	88																			
+BASELINE	static	0	  0:01:57	00:02:23	79		BASELINE	static	0	  0:01:57	00:02:13	89																			
+BASELINE	static	0	  0:01:58	00:02:24	79		BASELINE	static	0	  0:01:58	00:02:14	90																			
+BASELINE	static	0	  0:01:59	00:02:25	79		BASELINE	static	0	  0:01:59	00:02:15	91																			
+BASELINE	static	0	  0:02:00	00:02:26	79		BASELINE	static	0	  0:02:00	00:02:16	92																			
+BASELINE	static	0	  0:02:01	00:02:27	79		BASELINE	static	0	  0:02:01	00:02:17	92																			
+BASELINE	static	0	  0:02:02	00:02:28	80		BASELINE	static	0	  0:02:02	00:02:18	92																			
+BASELINE	static	0	  0:02:03	00:02:29	80		BASELINE	static	0	  0:02:03	00:02:19	92																			
+BASELINE	static	0	  0:02:04	00:02:30	80		BASELINE	static	0	  0:02:04	00:02:20	91																			
+BASELINE	static	0	  0:02:05	00:02:31	80		BASELINE	static	0	  0:02:05	00:02:21	91																			
+BASELINE	static	0	  0:02:06	00:02:32	80		BASELINE	static	0	  0:02:06	00:02:22	92																			
+BASELINE	static	0	  0:02:07	00:02:33	81		BASELINE	static	0	  0:02:07	00:02:23	92																			
+BASELINE	static	0	  0:02:08	00:02:34	82		BASELINE	static	0	  0:02:08	00:02:24	92																			
+BASELINE	static	0	  0:02:09	00:02:35	83		BASELINE	static	0	  0:02:09	00:02:25	92																			
+BASELINE	static	0	  0:02:10	00:02:36	83		BASELINE	static	0	  0:02:10	00:02:26	94																			
+BASELINE	static	0	  0:02:11	00:02:37	84		BASELINE	static	0	  0:02:11	00:02:27	95																			
+BASELINE	static	0	  0:02:12	00:02:38	84		BASELINE	static	0	  0:02:12	00:02:28	95																			
+BASELINE	static	0	  0:02:13	00:02:39	85		BASELINE	static	0	  0:02:13	00:02:29	94																			
+BASELINE	static	0	  0:02:14	00:02:40	86		BASELINE	static	0	  0:02:14	00:02:30	95																			
+BASELINE	static	0	  0:02:15	00:02:41	87		BASELINE	static	0	  0:02:15	00:02:31	95																			
+BASELINE	static	0	  0:02:16	00:02:42	87		BASELINE	static	0	  0:02:16	00:02:32	94																			
+BASELINE	static	0	  0:02:17	00:02:43	88		BASELINE	static	0	  0:02:17	00:02:33	94																			
+BASELINE	static	0	  0:02:18	00:02:44	88		BASELINE	static	0	  0:02:18	00:02:34	94																			
+BASELINE	static	0	  0:02:19	00:02:45	89		BASELINE	static	0	  0:02:19	00:02:35	93																			
+BASELINE	static	0	  0:02:20	00:02:46	90		BASELINE	static	0	  0:02:20	00:02:36	94																			
+BASELINE	static	0	  0:02:21	00:02:47	91		BASELINE	static	0	  0:02:21	00:02:37	95																			
+BASELINE	static	0	  0:02:22	00:02:48	91		BASELINE	static	0	  0:02:22	00:02:38	97																			
+BASELINE	static	0	  0:02:23	00:02:49	91		BASELINE	static	0	  0:02:23	00:02:39	99																			
+BASELINE	static	0	  0:02:24	00:02:50	91		BASELINE	static	0	  0:02:24	00:02:40	99																			
+BASELINE	static	0	  0:02:25	00:02:51	91		BASELINE	static	0	  0:02:25	00:02:41	99																			
+BASELINE	static	0	  0:02:26	00:02:52	91		BASELINE	static	0	  0:02:26	00:02:42	99																			
+BASELINE	static	0	  0:02:27	00:02:53	90		BASELINE	static	0	  0:02:27	00:02:43	98																			
+BASELINE	static	0	  0:02:28	00:02:54	90		BASELINE	static	0	  0:02:28	00:02:44	97																			
+BASELINE	static	0	  0:02:29	00:02:55	90		BASELINE	static	0	  0:02:29	00:02:45	97																			
+BASELINE	static	0	  0:02:30	00:02:56	90		BASELINE	static	0	  0:02:30	00:02:46	97																			
+BASELINE	static	0	  0:02:31	00:02:57	90		BASELINE	static	0	  0:02:31	00:02:47	97																			
+BASELINE	static	0	  0:02:32	00:02:58	90		BASELINE	static	0	  0:02:32	00:02:48	96																			
+BASELINE	static	0	  0:02:33	00:02:59	90		BASELINE	static	0	  0:02:33	00:02:49	95																			
+BASELINE	static	0	  0:02:34	00:03:00	90		BASELINE	static	0	  0:02:34	00:02:50	95																			
+BASELINE	static	0	  0:02:35	00:03:01	90		BASELINE	static	0	  0:02:35	00:02:51	95																			
+BASELINE	static	0	  0:02:36	00:03:02	90		BASELINE	static	0	  0:02:36	00:02:52	94																			
+BASELINE	static	0	  0:02:37	00:03:03	90		BASELINE	static	0	  0:02:37	00:02:53	94																			
+BASELINE	static	0	  0:02:38	00:03:04	91		BASELINE	static	0	  0:02:38	00:02:54	93																			
+BASELINE	static	0	  0:02:39	00:03:05	92		BASELINE	static	0	  0:02:39	00:02:55	92																			
+BASELINE	static	0	  0:02:40	00:03:06	92		BASELINE	static	0	  0:02:40	00:02:56	93																			
+BASELINE	static	0	  0:02:41	00:03:07	93		BASELINE	static	0	  0:02:41	00:02:57	94																			
+BASELINE	static	0	  0:02:42	00:03:08	93		BASELINE	static	0	  0:02:42	00:02:58	94																			
+BASELINE	static	0	  0:02:43	00:03:09	93		BASELINE	static	0	  0:02:43	00:02:59	94																			
+BASELINE	static	0	  0:02:44	00:03:10	93		BASELINE	static	0	  0:02:44	00:03:00	94																			
+BASELINE	static	0	  0:02:45	00:03:11	93		BASELINE	static	0	  0:02:45	00:03:01	94																			
+BASELINE	static	0	  0:02:46	00:03:12	92		BASELINE	static	0	  0:02:46	00:03:02	93																			
+BASELINE	static	0	  0:02:47	00:03:13	92		BASELINE	static	0	  0:02:47	00:03:03	94																			
+BASELINE	static	0	  0:02:48	00:03:14	91		BASELINE	static	0	  0:02:48	00:03:04	93																			
+BASELINE	static	0	  0:02:49	00:03:15	91		BASELINE	static	0	  0:02:49	00:03:05	93																			
+BASELINE	static	0	  0:02:50	00:03:16	90		BASELINE	static	0	  0:02:50	00:03:06	93																			
+BASELINE	static	0	  0:02:51	00:03:17	90		BASELINE	static	0	  0:02:51	00:03:07	93																			
+BASELINE	static	0	  0:02:52	00:03:18	90		BASELINE	static	0	  0:02:52	00:03:08	93																			
+BASELINE	static	0	  0:02:53	00:03:19	91		BASELINE	static	0	  0:02:53	00:03:09	93																			
+BASELINE	static	0	  0:02:54	00:03:20	91		BASELINE	static	0	  0:02:54	00:03:10	93																			
+BASELINE	static	0	  0:02:55	00:03:21	91		BASELINE	static	0	  0:02:55	00:03:11	93																			
+BASELINE	static	0	  0:02:56	00:03:22	91		BASELINE	static	0	  0:02:56	00:03:12	92																			
+BASELINE	static	0	  0:02:57	00:03:23	90		BASELINE	static	0	  0:02:57	00:03:13	92																			
+BASELINE	static	0	  0:02:58	00:03:24	90		BASELINE	static	0	  0:02:58	00:03:14	91																			
+BASELINE	static	0	  0:02:59	00:03:25	90		BASELINE	static	0	  0:02:59	00:03:15	90																			
+		0		00:03:26	89				0		00:03:16	89																			
+		0		00:03:27	89				0		00:03:17	89																			
+		0		00:03:28	88				0		00:03:18	89																			
+		0		00:03:29	88				0		00:03:19	89																			
+		0		00:03:30	88				0		00:03:20	89																			
+		0		00:03:31	88				0		00:03:21	89																			
+		0		00:03:32	88				0		00:03:22	88																			
+		0		00:03:33	87				0		00:03:23	88																			
+		0		00:03:34	87				0		00:03:24	88																			
+		0		00:03:35	86				0		00:03:25	88																			
+		0		00:03:36	86				0		00:03:26	88																			
+		0		00:03:37	85				0		00:03:27	89																			
+		0		00:03:38	86				0		00:03:28	89																			
+		0		00:03:39	86				0		00:03:29	88																			
+		0		00:03:40	85				0		00:03:30	88																			
+		0		00:03:41	85				0		00:03:31	88																			
+		0		00:03:42	85				0		00:03:32	88																			
+		0		00:03:43	85				0		00:03:33	88																			
+		0		00:03:44	85				0		00:03:34	88																			
+		0		00:03:45	84				0		00:03:35	88																			
+		0		00:03:46	84				0		00:03:36	88																			
+		0		00:03:47	84				0		00:03:37	88																			
+		0		00:03:48	84				0		00:03:38	89																			
+		0		00:03:49	84				0		00:03:39	89																			
+		0		00:03:50	84				0		00:03:40	88																			
+		0		00:03:51	84				0		00:03:41	88																			
+		0		00:03:52	84				0		00:03:42	88																			
+		0		00:03:53	84				0		00:03:43	87																			
+		0		00:03:54	84				0		00:03:44	87																			
+		0		00:03:55	84				0		00:03:45	88																			
+		0		00:03:56	84				0		00:03:46	87																			
+		0		00:03:57	84				0		00:03:47	87																			
+		0		00:03:58	84				0		00:03:48	87																			
+		0		00:03:59	84				0		00:03:49	87																			
+		0		00:04:00	84				0		00:03:50	86																			
+		0		00:04:01	84				0		00:03:51	86																			
+		0		00:04:02	85				0		00:03:52	86																			
+		0		00:04:03	85				0		00:03:53	87																			
+		0		00:04:04	85				0		00:03:54	87																			
+		0		00:04:05	85				0		00:03:55	87																			
+		0		00:04:06	85				0		00:03:56	88																			
+		0		00:04:07	84				0		00:03:57	88																			
+		0		00:04:08	84				0		00:03:58	88																			
+		0		00:04:09	84				0		00:03:59	88																			
+		0		00:04:10	84				0		00:04:00	89																			
+		0		00:04:11	83				0		00:04:01	89																			
+		0		00:04:12	83				0		00:04:02	90																			
+		0		00:04:13	83				0		00:04:03	90																			
+		0		00:04:14	82				0		00:04:04	90																			
+		0		00:04:15	82				0		00:04:05	90																			
+		0		00:04:16	81				0		00:04:06	90																			
+		0		00:04:17	81				0		00:04:07	90																			
+		0		00:04:18	81				0		00:04:08	90																			
+		0		00:04:19	80				0		00:04:09	91																			
+		0		00:04:20	80				0		00:04:10	91																			
+		0		00:04:21	80				0		00:04:11	91																			
+		0		00:04:22	80				0		00:04:12	92																			
+		0		00:04:23	80				0		00:04:13	92																			
+		0		00:04:24	79				0		00:04:14	91																			
+		0		00:04:25	79				0		00:04:15	89																			
+		0							0																						
+EXP	run	0	  0:00:00	00:05:37	88		EXP	run	0	  0:00:00	00:04:26	87																			
+EXP	run	0	  0:00:01	00:05:38	87		EXP	run	0	  0:00:01	00:04:27	87																			
+EXP	run	0	  0:00:02	00:05:39	87		EXP	run	0	  0:00:02	00:04:28	86																			
+EXP	run	0	  0:00:03	00:05:40	87		EXP	run	0	  0:00:03	00:04:29	85																			
+EXP	run	0	  0:00:04	00:05:41	86		EXP	run	0	  0:00:04	00:04:30	85																			
+EXP	run	0	  0:00:05	00:05:42	86		EXP	run	0	  0:00:05	00:04:31	85																			
+EXP	run		  0:00:06	00:05:43	85		EXP	run		  0:00:06	00:04:32	84																			
+EXP	run	1	  0:00:07	00:05:44	85		EXP	run	1	  0:00:07	00:04:33	84																			
+EXP	run	1	  0:00:08	00:05:45	85		EXP	run	1	  0:00:08	00:04:34	84																			
+EXP	run	1	  0:00:09	00:05:46	85		EXP	run	1	  0:00:09	00:04:35	84																			
+EXP	run	1	  0:00:10	00:05:47	85		EXP	run	1	  0:00:10	00:04:36	84																			
+EXP	run	1	  0:00:11	00:05:48	85		EXP	run	1	  0:00:11	00:04:37	85																			
+EXP	run	1	  0:00:12	00:05:49	85		EXP	run	1	  0:00:12	00:04:38	85																			
+EXP	run	1	  0:00:13	00:05:50	85		EXP	run	1	  0:00:13	00:04:39	85																			
+EXP	run	1	  0:00:14	00:05:51	85		EXP	run	1	  0:00:14	00:04:40	85																			
+EXP	run	1	  0:00:15	00:05:52	85		EXP	run	1	  0:00:15	00:04:41	86																			
+EXP	run	1	  0:00:16	00:05:53	85		EXP	run	1	  0:00:16	00:04:42	87																			
+EXP	run	1	  0:00:17	00:05:54	84		EXP	run	1	  0:00:17	00:04:43	87																			
+EXP	run	1	  0:00:18	00:05:55	84		EXP	run	1	  0:00:18	00:04:44	88																			
+EXP	run	1	  0:00:19	00:05:56	84		EXP	run	1	  0:00:19	00:04:45	88																			
+EXP	run	1	  0:00:20	00:05:57	85		EXP	run	1	  0:00:20	00:04:46	88																			
+EXP	run	1	  0:00:21	00:05:58	84		EXP	run	1	  0:00:21	00:04:47	88																			
+EXP	run	1	  0:00:22	00:05:59	84		EXP	run	1	  0:00:22	00:04:48	88																			
+EXP	run	1	  0:00:23	00:06:00	84		EXP	run	1	  0:00:23	00:04:49	87																			
+EXP	run	1	  0:00:24	00:06:01	84		EXP	run	1	  0:00:24	00:04:50	87																			
+EXP	run	1	  0:00:25	00:06:02	84		EXP	run	1	  0:00:25	00:04:51	87																			
+EXP	run	1	  0:00:26	00:06:03	85		EXP	run	1	  0:00:26	00:04:52	87																			
+EXP	run	1	  0:00:27	00:06:04	85		EXP	run	1	  0:00:27	00:04:53	87																			
+EXP	run	1	  0:00:28	00:06:05	84		EXP	run	1	  0:00:28	00:04:54	87																			
+EXP	run	1	  0:00:29	00:06:06	84		EXP	run	1	  0:00:29	00:04:55	87																			
+EXP	walk	1	  0:00:30	00:06:07	84		EXP	walk	1	  0:00:30	00:04:56	87																			
+EXP	walk	1	  0:00:31	00:06:08	83		EXP	walk	1	  0:00:31	00:04:57	86																			
+EXP	walk	1	  0:00:32	00:06:09	83		EXP	walk	1	  0:00:32	00:04:58	85																			
+EXP	walk	1	  0:00:33	00:06:10	82		EXP	walk	1	  0:00:33	00:04:59	85																			
+EXP	walk	1	  0:00:34	00:06:11	81		EXP	walk	1	  0:00:34	00:05:00	84																			
+EXP	walk	1	  0:00:35	00:06:12	81		EXP	walk	1	  0:00:35	00:05:01	84																			
+EXP	walk	1	  0:00:36	00:06:13	81		EXP	walk	1	  0:00:36	00:05:02	85																			
+EXP	walk	2	  0:00:37	00:06:14	81		EXP	walk	2	  0:00:37	00:05:03	85																			
+EXP	walk	2	  0:00:38	00:06:15	81		EXP	walk	2	  0:00:38	00:05:04	85																			
+EXP	walk	2	  0:00:39	00:06:16	81		EXP	walk	2	  0:00:39	00:05:05	85																			
+EXP	walk	2	  0:00:40	00:06:17	81		EXP	walk	2	  0:00:40	00:05:06	85																			
+EXP	walk	2	  0:00:41	00:06:18	81		EXP	walk	2	  0:00:41	00:05:07	85																			
+EXP	walk	2	  0:00:42	00:06:19	81		EXP	walk	2	  0:00:42	00:05:08	85																			
+EXP	walk	2	  0:00:43	00:06:20	81		EXP	walk	2	  0:00:43	00:05:09	83																			
+EXP	walk	2	  0:00:44	00:06:21	81		EXP	walk	2	  0:00:44	00:05:10	83																			
+EXP	walk	2	  0:00:45	00:06:22	82		EXP	walk	2	  0:00:45	00:05:11	82																			
+EXP	walk	2	  0:00:46	00:06:23	82		EXP	walk	2	  0:00:46	00:05:12	83																			
+EXP	walk	2	  0:00:47	00:06:24	82		EXP	walk	2	  0:00:47	00:05:13	83																			
+EXP	walk	2	  0:00:48	00:06:25	82		EXP	walk	2	  0:00:48	00:05:14	83																			
+EXP	walk	2	  0:00:49	00:06:26	81		EXP	walk	2	  0:00:49	00:05:15	84																			
+EXP	walk	2	  0:00:50	00:06:27	81		EXP	walk	2	  0:00:50	00:05:16	85																			
+EXP	walk	2	  0:00:51	00:06:28	81		EXP	walk	2	  0:00:51	00:05:17	85																			
+EXP	walk	2	  0:00:52	00:06:29	81		EXP	walk	2	  0:00:52	00:05:18	85																			
+EXP	walk	2	  0:00:53	00:06:30	81		EXP	walk	2	  0:00:53	00:05:19	86																			
+EXP	walk	2	  0:00:54	00:06:31	81		EXP	walk	2	  0:00:54	00:05:20	86																			
+EXP	walk	2	  0:00:55	00:06:32	81		EXP	walk	2	  0:00:55	00:05:21	86																			
+EXP	walk	2	  0:00:56	00:06:33	81		EXP	walk	2	  0:00:56	00:05:22	86																			
+EXP	walk	2	  0:00:57	00:06:34	80		EXP	walk	2	  0:00:57	00:05:23	86																			
+EXP	walk	2	  0:00:58	00:06:35	80		EXP	walk	2	  0:00:58	00:05:24	86																			
+EXP	walk	2	  0:00:59	00:06:36	80		EXP	walk	2	  0:00:59	00:05:25	86																			
+EXP	run	2	  0:01:00	00:06:37	80		EXP	run	2	  0:01:00	00:05:26	86																			
+EXP	run	2	  0:01:01	00:06:38	79		EXP	run	2	  0:01:01	00:05:27	87																			
+EXP	run	2	  0:01:02	00:06:39	79		EXP	run	2	  0:01:02	00:05:28	87																			
+EXP	run	2	  0:01:03	00:06:40	79		EXP	run	2	  0:01:03	00:05:29	88																			
+EXP	run	2	  0:01:04	00:06:41	79		EXP	run	2	  0:01:04	00:05:30	88																			
+EXP	run	2	  0:01:05	00:06:42	79		EXP	run	2	  0:01:05	00:05:31	88																			
+EXP	run	2	  0:01:06	00:06:43	80		EXP	run	2	  0:01:06	00:05:32	88																			
+EXP	run	3	  0:01:07	00:06:44	80		EXP	run	3	  0:01:07	00:05:33	88																			
+EXP	run	3	  0:01:08	00:06:45	81		EXP	run	3	  0:01:08	00:05:34	88																			
+EXP	run	3	  0:01:09	00:06:46	83		EXP	run	3	  0:01:09	00:05:35	89																			
+EXP	run	3	  0:01:10	00:06:47	83		EXP	run	3	  0:01:10	00:05:36	89																			
+EXP	run	3	  0:01:11	00:06:48	84		EXP	run	3	  0:01:11	00:05:37	90																			
+EXP	run	3	  0:01:12	00:06:49	85		EXP	run	3	  0:01:12	00:05:38	91																			
+EXP	run	3	  0:01:13	00:06:50	85		EXP	run	3	  0:01:13	00:05:39	91																			
+EXP	run	3	  0:01:14	00:06:51	85		EXP	run	3	  0:01:14	00:05:40	92																			
+EXP	run	3	  0:01:15	00:06:52	85		EXP	run	3	  0:01:15	00:05:41	92																			
+EXP	run	3	  0:01:16	00:06:53	86		EXP	run	3	  0:01:16	00:05:42	93																			
+EXP	run	3	  0:01:17	00:06:54	85		EXP	run	3	  0:01:17	00:05:43	93																			
+EXP	run	3	  0:01:18	00:06:55	86		EXP	run	3	  0:01:18	00:05:44	94																			
+EXP	run	3	  0:01:19	00:06:56	87		EXP	run	3	  0:01:19	00:05:45	94																			
+EXP	run	3	  0:01:20	00:06:57	87		EXP	run	3	  0:01:20	00:05:46	95																			
+EXP	run	3	  0:01:21	00:06:58	86		EXP	run	3	  0:01:21	00:05:47	95																			
+EXP	run	3	  0:01:22	00:06:59	86		EXP	run	3	  0:01:22	00:05:48	95																			
+EXP	run	3	  0:01:23	00:07:00	86		EXP	run	3	  0:01:23	00:05:49	95																			
+EXP	run	3	  0:01:24	00:07:01	85		EXP	run	3	  0:01:24	00:05:50	94																			
+EXP	run	3	  0:01:25	00:07:02	85		EXP	run	3	  0:01:25	00:05:51	94																			
+EXP	run	3	  0:01:26	00:07:03	85		EXP	run	3	  0:01:26	00:05:52	92																			
+EXP	run	3	  0:01:27	00:07:04	85		EXP	run	3	  0:01:27	00:05:53	92																			
+EXP	run	3	  0:01:28	00:07:05	85		EXP	run	3	  0:01:28	00:05:54	92																			
+EXP	run	3	  0:01:29	00:07:06	86		EXP	run	3	  0:01:29	00:05:55	93																			
+EXP	walk	3	  0:01:30	00:07:07	86		EXP	walk	3	  0:01:30	00:05:56	93																			
+EXP	walk	3	  0:01:31	00:07:08	86		EXP	walk	3	  0:01:31	00:05:57	93																			
+EXP	walk	3	  0:01:32	00:07:09	86		EXP	walk	3	  0:01:32	00:05:58	92																			
+EXP	walk	3	  0:01:33	00:07:10	85		EXP	walk	3	  0:01:33	00:05:59	91																			
+EXP	walk	3	  0:01:34	00:07:11	85		EXP	walk	3	  0:01:34	00:06:00	91																			
+EXP	walk	3	  0:01:35	00:07:12	85		EXP	walk	3	  0:01:35	00:06:01	90																			
+EXP	walk	3	  0:01:36	00:07:13	85		EXP	walk	3	  0:01:36	00:06:02	90																			
+EXP	walk	4	  0:01:37	00:07:14	85		EXP	walk	4	  0:01:37	00:06:03	91																			
+EXP	walk	4	  0:01:38	00:07:15	85		EXP	walk	4	  0:01:38	00:06:04	91																			
+EXP	walk	4	  0:01:39	00:07:16	85		EXP	walk	4	  0:01:39	00:06:05	92																			
+EXP	walk	4	  0:01:40	00:07:17	85		EXP	walk	4	  0:01:40	00:06:06	92																			
+EXP	walk	4	  0:01:41	00:07:18	85		EXP	walk	4	  0:01:41	00:06:07	93																			
+EXP	walk	4	  0:01:42	00:07:19	85		EXP	walk	4	  0:01:42	00:06:08	92																			
+EXP	walk	4	  0:01:43	00:07:20	85		EXP	walk	4	  0:01:43	00:06:09	92																			
+EXP	walk	4	  0:01:44	00:07:21	85		EXP	walk	4	  0:01:44	00:06:10	91																			
+EXP	walk	4	  0:01:45	00:07:22	85		EXP	walk	4	  0:01:45	00:06:11	92																			
+EXP	walk	4	  0:01:46	00:07:23	85		EXP	walk	4	  0:01:46	00:06:12	93																			
+EXP	walk	4	  0:01:47	00:07:24	85		EXP	walk	4	  0:01:47	00:06:13	92																			
+EXP	walk	4	  0:01:48	00:07:25	85		EXP	walk	4	  0:01:48	00:06:14	92																			
+EXP	walk	4	  0:01:49	00:07:26	85		EXP	walk	4	  0:01:49	00:06:15	92																			
+EXP	walk	4	  0:01:50	00:07:27	84		EXP	walk	4	  0:01:50	00:06:16	91																			
+EXP	walk	4	  0:01:51	00:07:28	84		EXP	walk	4	  0:01:51	00:06:17	90																			
+EXP	walk	4	  0:01:52	00:07:29	84		EXP	walk	4	  0:01:52	00:06:18	90																			
+EXP	walk	4	  0:01:53	00:07:30	84		EXP	walk	4	  0:01:53	00:06:19	90																			
+EXP	walk	4	  0:01:54	00:07:31	84		EXP	walk	4	  0:01:54	00:06:20	89																			
+EXP	walk	4	  0:01:55	00:07:32	84		EXP	walk	4	  0:01:55	00:06:21	88																			
+EXP	walk	4	  0:01:56	00:07:33	83		EXP	walk	4	  0:01:56	00:06:22	88																			
+EXP	walk	4	  0:01:57	00:07:34	83		EXP	walk	4	  0:01:57	00:06:23	87																			
+EXP	walk	4	  0:01:58	00:07:35	82		EXP	walk	4	  0:01:58	00:06:24	86																			
+EXP	walk	4	  0:01:59	00:07:36	82		EXP	walk	4	  0:01:59	00:06:25	86																			
+EXP	run	4	  0:02:00	00:07:37	83		EXP	run	4	  0:02:00	00:06:26	86																			
+EXP	run	4	  0:02:01	00:07:38	83		EXP	run	4	  0:02:01	00:06:27	86																			
+EXP	run	4	  0:02:02	00:07:39	83		EXP	run	4	  0:02:02	00:06:28	86																			
+EXP	run	4	  0:02:03	00:07:40	83		EXP	run	4	  0:02:03	00:06:29	86																			
+EXP	run	4	  0:02:04	00:07:41	83		EXP	run	4	  0:02:04	00:06:30	86																			
+EXP	run	4	  0:02:05	00:07:42	82		EXP	run	4	  0:02:05	00:06:31	85																			
+EXP	run	4	  0:02:06	00:07:43	82		EXP	run	4	  0:02:06	00:06:32	84																			
+EXP	run	5	  0:02:07	00:07:44	81		EXP	run	5	  0:02:07	00:06:33	84																			
+EXP	run	5	  0:02:08	00:07:45	81		EXP	run	5	  0:02:08	00:06:34	83																			
+EXP	run	5	  0:02:09	00:07:46	81		EXP	run	5	  0:02:09	00:06:35	83																			
+EXP	run	5	  0:02:10	00:07:47	80		EXP	run	5	  0:02:10	00:06:36	83																			
+EXP	run	5	  0:02:11	00:07:48	80		EXP	run	5	  0:02:11	00:06:37	83																			
+EXP	run	5	  0:02:12	00:07:49	80		EXP	run	5	  0:02:12	00:06:38	83																			
+EXP	run	5	  0:02:13	00:07:50	80		EXP	run	5	  0:02:13	00:06:39	84																			
+EXP	run	5	  0:02:14	00:07:51	80		EXP	run	5	  0:02:14	00:06:40	84																			
+EXP	run	5	  0:02:15	00:07:52	79		EXP	run	5	  0:02:15	00:06:41	84																			
+EXP	run	5	  0:02:16	00:07:53	79		EXP	run	5	  0:02:16	00:06:42	85																			
+EXP	run	5	  0:02:17	00:07:54	79		EXP	run	5	  0:02:17	00:06:43	85																			
+EXP	run	5	  0:02:18	00:07:55	79		EXP	run	5	  0:02:18	00:06:44	85																			
+EXP	run	5	  0:02:19	00:07:56	79		EXP	run	5	  0:02:19	00:06:45	85																			
+EXP	run	5	  0:02:20	00:07:57	79		EXP	run	5	  0:02:20	00:06:46	85																			
+EXP	run	5	  0:02:21	00:07:58	79		EXP	run	5	  0:02:21	00:06:47	85																			
+EXP	run	5	  0:02:22	00:07:59	79		EXP	run	5	  0:02:22	00:06:48	86																			
+EXP	run	5	  0:02:23	00:08:00	79		EXP	run	5	  0:02:23	00:06:49	86																			
+EXP	run	5	  0:02:24	00:08:01	78		EXP	run	5	  0:02:24	00:06:50	87																			
+EXP	run	5	  0:02:25	00:08:02	78		EXP	run	5	  0:02:25	00:06:51	87																			
+EXP	run	5	  0:02:26	00:08:03	79		EXP	run	5	  0:02:26	00:06:52	88																			
+EXP	run	5	  0:02:27	00:08:04	79		EXP	run	5	  0:02:27	00:06:53	88																			
+EXP	run	5	  0:02:28	00:08:05	79		EXP	run	5	  0:02:28	00:06:54	87																			
+EXP	run	5	  0:02:29	00:08:06	79		EXP	run	5	  0:02:29	00:06:55	87																			
+EXP	walk	5	  0:02:30	00:08:07	80		EXP	walk	5	  0:02:30	00:06:56	87																			
+EXP	walk	5	  0:02:31	00:08:08	80		EXP	walk	5	  0:02:31	00:06:57	87																			
+EXP	walk	5	  0:02:32	00:08:09	81		EXP	walk	5	  0:02:32	00:06:58	87																			
+EXP	walk	5	  0:02:33	00:08:10	81		EXP	walk	5	  0:02:33	00:06:59	88																			
+EXP	walk	5	  0:02:34	00:08:11	81		EXP	walk	5	  0:02:34	00:07:00	88																			
+EXP	walk	5	  0:02:35	00:08:12	82		EXP	walk	5	  0:02:35	00:07:01	89																			
+EXP	walk	5	  0:02:36	00:08:13	82		EXP	walk	5	  0:02:36	00:07:02	89																			
+EXP	walk	6	  0:02:37	00:08:14	83		EXP	walk	6	  0:02:37	00:07:03	89																			
+EXP	walk	6	  0:02:38	00:08:15	83		EXP	walk	6	  0:02:38	00:07:04	90																			
+EXP	walk	6	  0:02:39	00:08:16	83		EXP	walk	6	  0:02:39	00:07:05	90																			
+EXP	walk	6	  0:02:40	00:08:17	84		EXP	walk	6	  0:02:40	00:07:06	89																			
+EXP	walk	6	  0:02:41	00:08:18	84		EXP	walk	6	  0:02:41	00:07:07	90																			
+EXP	walk	6	  0:02:42	00:08:19	84		EXP	walk	6	  0:02:42	00:07:08	92																			
+EXP	walk	6	  0:02:43	00:08:20	85		EXP	walk	6	  0:02:43	00:07:09	92																			
+EXP	walk	6	  0:02:44	00:08:21	85		EXP	walk	6	  0:02:44	00:07:10	93																			
+EXP	walk	6	  0:02:45	00:08:22	85		EXP	walk	6	  0:02:45	00:07:11	94																			
+EXP	walk	6	  0:02:46	00:08:23	85		EXP	walk	6	  0:02:46	00:07:12	94																			
+EXP	walk	6	  0:02:47	00:08:24	85		EXP	walk	6	  0:02:47	00:07:13	93																			
+EXP	walk	6	  0:02:48	00:08:25	85		EXP	walk	6	  0:02:48	00:07:14	92																			
+EXP	walk	6	  0:02:49	00:08:26	85		EXP	walk	6	  0:02:49	00:07:15	92																			
+EXP	walk	6	  0:02:50	00:08:27	85		EXP	walk	6	  0:02:50	00:07:16	93																			
+EXP	walk	6	  0:02:51	00:08:28	85		EXP	walk	6	  0:02:51	00:07:17	93																			
+EXP	walk	6	  0:02:52	00:08:29	84		EXP	walk	6	  0:02:52	00:07:18	94																			
+EXP	walk	6	  0:02:53	00:08:30	84		EXP	walk	6	  0:02:53	00:07:19	95																			
+EXP	walk	6	  0:02:54	00:08:31	85		EXP	walk	6	  0:02:54	00:07:20	95																			
+EXP	walk	6	  0:02:55	00:08:32	85		EXP	walk	6	  0:02:55	00:07:21	94																			
+EXP	walk	6	  0:02:56	00:08:33	86		EXP	walk	6	  0:02:56	00:07:22	94																			
+EXP	walk	6	  0:02:57	00:08:34	87		EXP	walk	6	  0:02:57	00:07:23	94																			
+EXP	walk	6	  0:02:58	00:08:35	86		EXP	walk	6	  0:02:58	00:07:24	93																			
+EXP	walk	6	  0:02:59	00:08:36	86		EXP	walk	6	  0:02:59	00:07:25	93																			
+EXP	run	6	  0:03:00	00:08:37	86		EXP	run	6	  0:03:00	00:07:26	94																			
+EXP	run	6	  0:03:01	00:08:38	86		EXP	run	6	  0:03:01	00:07:27	93																			
+EXP	run	6	  0:03:02	00:08:39	86		EXP	run	6	  0:03:02	00:07:28	93																			
+EXP	run	6	  0:03:03	00:08:40	85		EXP	run	6	  0:03:03	00:07:29	92																			
+EXP	run	6	  0:03:04	00:08:41	85		EXP	run	6	  0:03:04	00:07:30	91																			
+EXP	run	6	  0:03:05	00:08:42	86		EXP	run	6	  0:03:05	00:07:31	91																			
+EXP	run	6	  0:03:06	00:08:43	86		EXP	run	6	  0:03:06	00:07:32	92																			
+EXP	run	7	  0:03:07	00:08:44	85		EXP	run	7	  0:03:07	00:07:33	92																			
+EXP	run	7	  0:03:08	00:08:45	86		EXP	run	7	  0:03:08	00:07:34	92																			
+EXP	run	7	  0:03:09	00:08:46	86		EXP	run	7	  0:03:09	00:07:35	93																			
+EXP	run	7	  0:03:10	00:08:47	85		EXP	run	7	  0:03:10	00:07:36	93																			
+EXP	run	7	  0:03:11	00:08:48	85		EXP	run	7	  0:03:11	00:07:37	92																			
+EXP	run	7	  0:03:12	00:08:49	85		EXP	run	7	  0:03:12	00:07:38	92																			
+EXP	run	7	  0:03:13	00:08:50	86		EXP	run	7	  0:03:13	00:07:39	92																			
+EXP	run	7	  0:03:14	00:08:51	86		EXP	run	7	  0:03:14	00:07:40	91																			
+EXP	run	7	  0:03:15	00:08:52	86		EXP	run	7	  0:03:15	00:07:41	91																			
+EXP	run	7	  0:03:16	00:08:53	86		EXP	run	7	  0:03:16	00:07:42	91																			
+EXP	run	7	  0:03:17	00:08:54	85		EXP	run	7	  0:03:17	00:07:43	91																			
+EXP	run	7	  0:03:18	00:08:55	84		EXP	run	7	  0:03:18	00:07:44	90																			
+EXP	run	7	  0:03:19	00:08:56	85		EXP	run	7	  0:03:19	00:07:45	90																			
+EXP	run	7	  0:03:20	00:08:57	85		EXP	run	7	  0:03:20	00:07:46	90																			
+EXP	run	7	  0:03:21	00:08:58	86		EXP	run	7	  0:03:21	00:07:47	88																			
+EXP	run	7	  0:03:22	00:08:59	87		EXP	run	7	  0:03:22	00:07:48	87																			
+EXP	run	7	  0:03:23	00:09:00	86		EXP	run	7	  0:03:23	00:07:49	86																			
+EXP	run	7	  0:03:24	00:09:01	86		EXP	run	7	  0:03:24	00:07:50	84																			
+EXP	run	7	  0:03:25	00:09:02	86		EXP	run	7	  0:03:25	00:07:51	84																			
+EXP	run	7	  0:03:26	00:09:03	87		EXP	run	7	  0:03:26	00:07:52	84																			
+EXP	run	7	  0:03:27	00:09:04	87		EXP	run	7	  0:03:27	00:07:53	84																			
+EXP	run	7	  0:03:28	00:09:05	87		EXP	run	7	  0:03:28	00:07:54	84																			
+EXP	run	7	  0:03:29	00:09:06	87		EXP	run	7	  0:03:29	00:07:55	84																			
+EXP	walk	7	  0:03:30	00:09:07	87		EXP	walk	7	  0:03:30	00:07:56	83																			
+EXP	walk	7	  0:03:31	00:09:08	85		EXP	walk	7	  0:03:31	00:07:57	83																			
+EXP	walk	7	  0:03:32	00:09:09	85		EXP	walk	7	  0:03:32	00:07:58	83																			
+EXP	walk	7	  0:03:33	00:09:10	85		EXP	walk	7	  0:03:33	00:07:59	83																			
+EXP	walk	7	  0:03:34	00:09:11	84		EXP	walk	7	  0:03:34	00:08:00	83																			
+EXP	walk	7	  0:03:35	00:09:12	84		EXP	walk	7	  0:03:35	00:08:01	83																			
+EXP	walk	7	  0:03:36	00:09:13	84		EXP	walk	7	  0:03:36	00:08:02	84																			
+EXP	walk	8	  0:03:37	00:09:14	84		EXP	walk	8	  0:03:37	00:08:03	85																			
+EXP	walk	8	  0:03:38	00:09:15	84		EXP	walk	8	  0:03:38	00:08:04	86																			
+EXP	walk	8	  0:03:39	00:09:16	83		EXP	walk	8	  0:03:39	00:08:05	87																			
+EXP	walk	8	  0:03:40	00:09:17	83		EXP	walk	8	  0:03:40	00:08:06	87																			
+EXP	walk	8	  0:03:41	00:09:18	83		EXP	walk	8	  0:03:41	00:08:07	87																			
+EXP	walk	8	  0:03:42	00:09:19	82		EXP	walk	8	  0:03:42	00:08:08	87																			
+EXP	walk	8	  0:03:43	00:09:20	82		EXP	walk	8	  0:03:43	00:08:09	87																			
+EXP	walk	8	  0:03:44	00:09:21	82		EXP	walk	8	  0:03:44	00:08:10	88																			
+EXP	walk	8	  0:03:45	00:09:22	82		EXP	walk	8	  0:03:45	00:08:11	89																			
+EXP	walk	8	  0:03:46	00:09:23	82		EXP	walk	8	  0:03:46	00:08:12	90																			
+EXP	walk	8	  0:03:47	00:09:24	82		EXP	walk	8	  0:03:47	00:08:13	91																			
+EXP	walk	8	  0:03:48	00:09:25	82		EXP	walk	8	  0:03:48	00:08:14	92																			
+EXP	walk	8	  0:03:49	00:09:26	82		EXP	walk	8	  0:03:49	00:08:15	92																			
+EXP	walk	8	  0:03:50	00:09:27	82		EXP	walk	8	  0:03:50	00:08:16	92																			
+EXP	walk	8	  0:03:51	00:09:28	83		EXP	walk	8	  0:03:51	00:08:17	93																			
+EXP	walk	8	  0:03:52	00:09:29	83		EXP	walk	8	  0:03:52	00:08:18	93																			
+EXP	walk	8	  0:03:53	00:09:30	82		EXP	walk	8	  0:03:53	00:08:19	92																			
+EXP	walk	8	  0:03:54	00:09:31	82		EXP	walk	8	  0:03:54	00:08:20	92																			
+EXP	walk	8	  0:03:55	00:09:32	82		EXP	walk	8	  0:03:55	00:08:21	92																			
+EXP	walk	8	  0:03:56	00:09:33	82		EXP	walk	8	  0:03:56	00:08:22	92																			
+EXP	walk	8	  0:03:57	00:09:34	83		EXP	walk	8	  0:03:57	00:08:23	92																			
+EXP	walk	8	  0:03:58	00:09:35	83		EXP	walk	8	  0:03:58	00:08:24	91																			
+EXP	walk	8	  0:03:59	00:09:36	83		EXP	walk	8	  0:03:59	00:08:25	92																			
+EXP	run	8	  0:04:00	00:09:37	83		EXP	run	8	  0:04:00	00:08:26	92																			
+EXP	run	8	  0:04:01	00:09:38	82		EXP	run	8	  0:04:01	00:08:27	93																			
+EXP	run	8	  0:04:02	00:09:39	82		EXP	run	8	  0:04:02	00:08:28	93																			
+EXP	run	8	  0:04:03	00:09:40	82		EXP	run	8	  0:04:03	00:08:29	93																			
+EXP	run	8	  0:04:04	00:09:41	82		EXP	run	8	  0:04:04	00:08:30	93																			
+EXP	run	8	  0:04:05	00:09:42	82		EXP	run	8	  0:04:05	00:08:31	93																			
+EXP	run	8	  0:04:06	00:09:43	82		EXP	run	8	  0:04:06	00:08:32	93																			
+EXP	run	9	  0:04:07	00:09:44	82		EXP	run	9	  0:04:07	00:08:33	93																			
+EXP	run	9	  0:04:08	00:09:45	82		EXP	run	9	  0:04:08	00:08:34	93																			
+EXP	run	9	  0:04:09	00:09:46	82		EXP	run	9	  0:04:09	00:08:35	93																			
+EXP	run	9	  0:04:10	00:09:47	82		EXP	run	9	  0:04:10	00:08:36	93																			
+EXP	run	9	  0:04:11	00:09:48	81		EXP	run	9	  0:04:11	00:08:37	93																			
+EXP	run	9	  0:04:12	00:09:49	81		EXP	run	9	  0:04:12	00:08:38	93																			
+EXP	run	9	  0:04:13	00:09:50	82		EXP	run	9	  0:04:13	00:08:39	93																			
+EXP	run	9	  0:04:14	00:09:51	82		EXP	run	9	  0:04:14	00:08:40	93																			
+EXP	run	9	  0:04:15	00:09:52	82		EXP	run	9	  0:04:15	00:08:41	93																			
+EXP	run	9	  0:04:16	00:09:53	82		EXP	run	9	  0:04:16	00:08:42	93																			
+EXP	run	9	  0:04:17	00:09:54	82		EXP	run	9	  0:04:17	00:08:43	93																			
+EXP	run	9	  0:04:18	00:09:55	82		EXP	run	9	  0:04:18	00:08:44	93																			
+EXP	run	9	  0:04:19	00:09:56	81		EXP	run	9	  0:04:19	00:08:45	94																			
+EXP	run	9	  0:04:20	00:09:57	81		EXP	run	9	  0:04:20	00:08:46	94																			
+EXP	run	9	  0:04:21	00:09:58	81		EXP	run	9	  0:04:21	00:08:47	95																			
+EXP	run	9	  0:04:22	00:09:59	81		EXP	run	9	  0:04:22	00:08:48	95																			
+EXP	run	9	  0:04:23	00:10:00	80		EXP	run	9	  0:04:23	00:08:49	95																			
+EXP	run	9	  0:04:24	00:10:01	80		EXP	run	9	  0:04:24	00:08:50	94																			
+EXP	run	9	  0:04:25	00:10:02	80		EXP	run	9	  0:04:25	00:08:51	94																			
+EXP	run	9	  0:04:26	00:10:03	80		EXP	run	9	  0:04:26	00:08:52	94																			
+EXP	run	9	  0:04:27	00:10:04	81		EXP	run	9	  0:04:27	00:08:53	93																			
+EXP	run	9	  0:04:28	00:10:05	81		EXP	run	9	  0:04:28	00:08:54	94																			
+EXP	run	9	  0:04:29	00:10:06	81		EXP	run	9	  0:04:29	00:08:55	94																			
+EXP	walk	9	  0:04:30	00:10:07	81		EXP	walk	9	  0:04:30	00:08:56	93																			
+EXP	walk	9	  0:04:31	00:10:08	82		EXP	walk	9	  0:04:31	00:08:57	93																			
+EXP	walk	9	  0:04:32	00:10:09	82		EXP	walk	9	  0:04:32	00:08:58	93																			
+EXP	walk	9	  0:04:33	00:10:10	82		EXP	walk	9	  0:04:33	00:08:59	92																			
+EXP	walk	9	  0:04:34	00:10:11	82		EXP	walk	9	  0:04:34	00:09:00	92																			
+EXP	walk	9	  0:04:35	00:10:12	82		EXP	walk	9	  0:04:35	00:09:01	92																			
+EXP	walk	9	  0:04:36	00:10:13	82		EXP	walk	9	  0:04:36	00:09:02	91																			
+EXP	walk	10	  0:04:37	00:10:14	82		EXP	walk	10	  0:04:37	00:09:03	92																			
+EXP	walk	10	  0:04:38	00:10:15	82		EXP	walk	10	  0:04:38	00:09:04	92																			
+EXP	walk	10	  0:04:39	00:10:16	83		EXP	walk	10	  0:04:39	00:09:05	91																			
+EXP	walk	10	  0:04:40	00:10:17	83		EXP	walk	10	  0:04:40	00:09:06	91																			
+EXP	walk	10	  0:04:41	00:10:18	83		EXP	walk	10	  0:04:41	00:09:07	89																			
+EXP	walk	10	  0:04:42	00:10:19	83		EXP	walk	10	  0:04:42	00:09:08	88																			
+EXP	walk	10	  0:04:43	00:10:20	83		EXP	walk	10	  0:04:43	00:09:09	88																			
+EXP	walk	10	  0:04:44	00:10:21	83		EXP	walk	10	  0:04:44	00:09:10	88																			
+EXP	walk	10	  0:04:45	00:10:22	83		EXP	walk	10	  0:04:45	00:09:11	88																			
+EXP	walk	10	  0:04:46	00:10:23	83		EXP	walk	10	  0:04:46	00:09:12	88																			
+EXP	walk	10	  0:04:47	00:10:24	83		EXP	walk	10	  0:04:47	00:09:13	88																			
+EXP	walk	10	  0:04:48	00:10:25	83		EXP	walk	10	  0:04:48	00:09:14	88																			
+EXP	walk	10	  0:04:49	00:10:26	83		EXP	walk	10	  0:04:49	00:09:15	88																			
+EXP	walk	10	  0:04:50	00:10:27	83		EXP	walk	10	  0:04:50	00:09:16	88																			
+EXP	walk	10	  0:04:51	00:10:28	83		EXP	walk	10	  0:04:51	00:09:17	88																			
+EXP	walk	10	  0:04:52	00:10:29	83		EXP	walk	10	  0:04:52	00:09:18	88																			
+EXP	walk	10	  0:04:53	00:10:30	82		EXP	walk	10	  0:04:53	00:09:19	88																			
+EXP	walk	10	  0:04:54	00:10:31	82		EXP	walk	10	  0:04:54	00:09:20	89																			
+EXP	walk	10	  0:04:55	00:10:32	82		EXP	walk	10	  0:04:55	00:09:21	88																			
+EXP	walk	10	  0:04:56	00:10:33	81		EXP	walk	10	  0:04:56	00:09:22	87																			
+EXP	walk	10	  0:04:57	00:10:34	81		EXP	walk	10	  0:04:57	00:09:23	86																			
+EXP	walk	10	  0:04:58	00:10:35	82		EXP	walk	10	  0:04:58	00:09:24	86																			
+EXP	walk	10	  0:04:59	00:10:36	82		EXP	walk	10	  0:04:59	00:09:25	86																			
+EXP	run	10	  0:05:00	00:10:37	82		EXP	run	10	  0:05:00	00:09:26	86																			
+EXP	run	10	  0:05:01	00:10:38	82		EXP	run	10	  0:05:01	00:09:27	86																			
+EXP	run	10	  0:05:02	00:10:39	82		EXP	run	10	  0:05:02	00:09:28	86																			
+EXP	run	10	  0:05:03	00:10:40	82		EXP	run	10	  0:05:03	00:09:29	87																			
+EXP	run	10	  0:05:04	00:10:41	82		EXP	run	10	  0:05:04	00:09:30	87																			
+EXP	run	10	  0:05:05	00:10:42	82		EXP	run	10	  0:05:05	00:09:31	88																			
+EXP	run	10	  0:05:06	00:10:43	82		EXP	run	10	  0:05:06	00:09:32	89																			
+EXP	run	11	  0:05:07	00:10:44	83		EXP	run	11	  0:05:07	00:09:33	90																			
+EXP	run	11	  0:05:08	00:10:45	83		EXP	run	11	  0:05:08	00:09:34	90																			
+EXP	run	11	  0:05:09	00:10:46	84		EXP	run	11	  0:05:09	00:09:35	90																			
+EXP	run	11	  0:05:10	00:10:47	84		EXP	run	11	  0:05:10	00:09:36	90																			
+EXP	run	11	  0:05:11	00:10:48	85		EXP	run	11	  0:05:11	00:09:37	91																			
+EXP	run	11	  0:05:12	00:10:49	85		EXP	run	11	  0:05:12	00:09:38	92																			
+EXP	run	11	  0:05:13	00:10:50	85		EXP	run	11	  0:05:13	00:09:39	93																			
+EXP	run	11	  0:05:14	00:10:51	85		EXP	run	11	  0:05:14	00:09:40	95																			
+EXP	run	11	  0:05:15	00:10:52	86		EXP	run	11	  0:05:15	00:09:41	96																			
+EXP	run	11	  0:05:16	00:10:53	86		EXP	run	11	  0:05:16	00:09:42	97																			
+EXP	run	11	  0:05:17	00:10:54	86		EXP	run	11	  0:05:17	00:09:43	96																			
+EXP	run	11	  0:05:18	00:10:55	86		EXP	run	11	  0:05:18	00:09:44	96																			
+EXP	run	11	  0:05:19	00:10:56	86		EXP	run	11	  0:05:19	00:09:45	96																			
+EXP	run	11	  0:05:20	00:10:57	85		EXP	run	11	  0:05:20	00:09:46	96																			
+EXP	run	11	  0:05:21	00:10:58	85		EXP	run	11	  0:05:21	00:09:47	95																			
+EXP	run	11	  0:05:22	00:10:59	85		EXP	run	11	  0:05:22	00:09:48	95																			
+EXP	run	11	  0:05:23	00:11:00	85		EXP	run	11	  0:05:23	00:09:49	95																			
+EXP	run	11	  0:05:24	00:11:01	86		EXP	run	11	  0:05:24	00:09:50	95																			
+EXP	run	11	  0:05:25	00:11:02	86		EXP	run	11	  0:05:25	00:09:51	94																			
+EXP	run	11	  0:05:26	00:11:03	88		EXP	run	11	  0:05:26	00:09:52	93																			
+EXP	run	11	  0:05:27	00:11:04	89		EXP	run	11	  0:05:27	00:09:53	91																			
+EXP	run	11	  0:05:28	00:11:05	89		EXP	run	11	  0:05:28	00:09:54	91																			
+EXP	run	11	  0:05:29	00:11:06	89		EXP	run	11	  0:05:29	00:09:55	91																			
+EXP	walk	11	  0:05:30	00:11:07	89		EXP	walk	11	  0:05:30	00:09:56	90																			
+EXP	walk	11	  0:05:31	00:11:08	87		EXP	walk	11	  0:05:31	00:09:57	91																			
+EXP	walk	11	  0:05:32	00:11:09	86		EXP	walk	11	  0:05:32	00:09:58	92																			
+EXP	walk	11	  0:05:33	00:11:10	86		EXP	walk	11	  0:05:33	00:09:59	92																			
+EXP	walk	11	  0:05:34	00:11:11	86		EXP	walk	11	  0:05:34	00:10:00	92																			
+EXP	walk	11	  0:05:35	00:11:12	86		EXP	walk	11	  0:05:35	00:10:01	92																			
+EXP	walk	11	  0:05:36	00:11:13	87		EXP	walk	11	  0:05:36	00:10:02	92																			
+EXP	walk	12	  0:05:37	00:11:14	87		EXP	walk	12	  0:05:37	00:10:03	92																			
+EXP	walk	12	  0:05:38	00:11:15	86		EXP	walk	12	  0:05:38	00:10:04	92																			
+EXP	walk	12	  0:05:39	00:11:16	86		EXP	walk	12	  0:05:39	00:10:05	92																			
+EXP	walk	12	  0:05:40	00:11:17	85		EXP	walk	12	  0:05:40	00:10:06	92																			
+EXP	walk	12	  0:05:41	00:11:18	85		EXP	walk	12	  0:05:41	00:10:07	92																			
+EXP	walk	12	  0:05:42	00:11:19	84		EXP	walk	12	  0:05:42	00:10:08	91																			
+EXP	walk	12	  0:05:43	00:11:20	84		EXP	walk	12	  0:05:43	00:10:09	90																			
+EXP	walk	12	  0:05:44	00:11:21	84		EXP	walk	12	  0:05:44	00:10:10	90																			
+EXP	walk	12	  0:05:45	00:11:22	84		EXP	walk	12	  0:05:45	00:10:11	89																			
+EXP	walk	12	  0:05:46	00:11:23	85		EXP	walk	12	  0:05:46	00:10:12	89																			
+EXP	walk	12	  0:05:47	00:11:24	84		EXP	walk	12	  0:05:47	00:10:13	89																			
+EXP	walk	12	  0:05:48	00:11:25	84		EXP	walk	12	  0:05:48	00:10:14	88																			
+EXP	walk	12	  0:05:49	00:11:26	84		EXP	walk	12	  0:05:49	00:10:15	87																			
+EXP	walk	12	  0:05:50	00:11:27	83		EXP	walk	12	  0:05:50	00:10:16	86																			
+EXP	walk	12	  0:05:51	00:11:28	84		EXP	walk	12	  0:05:51	00:10:17	86																			
+EXP	walk	12	  0:05:52	00:11:29	84		EXP	walk	12	  0:05:52	00:10:18	85																			
+EXP	walk	12	  0:05:53	00:11:30	84		EXP	walk	12	  0:05:53	00:10:19	85																			
+EXP	walk	12	  0:05:54	00:11:31	84		EXP	walk	12	  0:05:54	00:10:20	86																			
+EXP	walk	12	  0:05:55	00:11:32	84		EXP	walk	12	  0:05:55	00:10:21	86																			
+EXP	walk	12	  0:05:56	00:11:33	84		EXP	walk	12	  0:05:56	00:10:22	86																			
+EXP	walk	12	  0:05:57	00:11:34	83		EXP	walk	12	  0:05:57	00:10:23	87																			
+EXP	walk	12	  0:05:58	00:11:35	83		EXP	walk	12	  0:05:58	00:10:24	87																			
+EXP	walk	12	  0:05:59	00:11:36	82		EXP	walk	12	  0:05:59	00:10:25	87																			
+EXP	run	12	  0:06:00	00:11:37	82		EXP	run	12	  0:06:00	00:10:26	87																			
+EXP	run	12	  0:06:01	00:11:38	81		EXP	run	12	  0:06:01	00:10:27	86																			
+EXP	run	12	  0:06:02	00:11:39	81		EXP	run	12	  0:06:02	00:10:28	86																			
+EXP	run	12	  0:06:03	00:11:40	81		EXP	run	12	  0:06:03	00:10:29	87																			
+EXP	run	12	  0:06:04	00:11:41	81		EXP	run	12	  0:06:04	00:10:30	87																			
+EXP	run	12	  0:06:05	00:11:42	81		EXP	run	12	  0:06:05	00:10:31	86																			
+EXP	run	12	  0:06:06	00:11:43	80		EXP	run	12	  0:06:06	00:10:32	86																			
+EXP	run	13	  0:06:07	00:11:44	80		EXP	run	13	  0:06:07	00:10:33	86																			
+EXP	run	13	  0:06:08	00:11:45	80		EXP	run	13	  0:06:08	00:10:34	86																			
+EXP	run	13	  0:06:09	00:11:46	80		EXP	run	13	  0:06:09	00:10:35	86																			
+EXP	run	13	  0:06:10	00:11:47	80		EXP	run	13	  0:06:10	00:10:36	87																			
+EXP	run	13	  0:06:11	00:11:48	81		EXP	run	13	  0:06:11	00:10:37	87																			
+EXP	run	13	  0:06:12	00:11:49	81		EXP	run	13	  0:06:12	00:10:38	87																			
+EXP	run	13	  0:06:13	00:11:50	81		EXP	run	13	  0:06:13	00:10:39	88																			
+EXP	run	13	  0:06:14	00:11:51	81		EXP	run	13	  0:06:14	00:10:40	88																			
+EXP	run	13	  0:06:15	00:11:52	81		EXP	run	13	  0:06:15	00:10:41	88																			
+EXP	run	13	  0:06:16	00:11:53	81		EXP	run	13	  0:06:16	00:10:42	88																			
+EXP	run	13	  0:06:17	00:11:54	82		EXP	run	13	  0:06:17	00:10:43	88																			
+EXP	run	13	  0:06:18	00:11:55	82		EXP	run	13	  0:06:18	00:10:44	89																			
+EXP	run	13	  0:06:19	00:11:56	82		EXP	run	13	  0:06:19	00:10:45	90																			
+EXP	run	13	  0:06:20	00:11:57	83		EXP	run	13	  0:06:20	00:10:46	90																			
+EXP	run	13	  0:06:21	00:11:58	83		EXP	run	13	  0:06:21	00:10:47	90																			
+EXP	run	13	  0:06:22	00:11:59	83		EXP	run	13	  0:06:22	00:10:48	91																			
+EXP	run	13	  0:06:23	00:12:00	83		EXP	run	13	  0:06:23	00:10:49	91																			
+EXP	run	13	  0:06:24	00:12:01	83		EXP	run	13	  0:06:24	00:10:50	91																			
+EXP	run	13	  0:06:25	00:12:02	83		EXP	run	13	  0:06:25	00:10:51	91																			
+EXP	run	13	  0:06:26	00:12:03	83		EXP	run	13	  0:06:26	00:10:52	91																			
+EXP	run	13	  0:06:27	00:12:04	84		EXP	run	13	  0:06:27	00:10:53	91																			
+EXP	run	13	  0:06:28	00:12:05	84		EXP	run	13	  0:06:28	00:10:54	92																			
+EXP	run	13	  0:06:29	00:12:06	84		EXP	run	13	  0:06:29	00:10:55	92																			
+EXP	walk	13	  0:06:30	00:12:07	83		EXP	walk	13	  0:06:30	00:10:56	92																			
+EXP	walk	13	  0:06:31	00:12:08	83		EXP	walk	13	  0:06:31	00:10:57	92																			
+EXP	walk	13	  0:06:32	00:12:09	83		EXP	walk	13	  0:06:32	00:10:58	92																			
+EXP	walk	13	  0:06:33	00:12:10	82		EXP	walk	13	  0:06:33	00:10:59	91																			
+EXP	walk	13	  0:06:34	00:12:11	82		EXP	walk	13	  0:06:34	00:11:00	91																			
+EXP	walk	13	  0:06:35	00:12:12	81		EXP	walk	13	  0:06:35	00:11:01	91																			
+EXP	walk	13	  0:06:36	00:12:13	81		EXP	walk	13	  0:06:36	00:11:02	92																			
+EXP	walk	14	  0:06:37	00:12:14	81		EXP	walk	14	  0:06:37	00:11:03	93																			
+EXP	walk	14	  0:06:38	00:12:15	81		EXP	walk	14	  0:06:38	00:11:04	94																			
+EXP	walk	14	  0:06:39	00:12:16	81		EXP	walk	14	  0:06:39	00:11:05	94																			
+EXP	walk	14	  0:06:40	00:12:17	81		EXP	walk	14	  0:06:40	00:11:06	95																			
+EXP	walk	14	  0:06:41	00:12:18	81		EXP	walk	14	  0:06:41	00:11:07	94																			
+EXP	walk	14	  0:06:42	00:12:19	81		EXP	walk	14	  0:06:42	00:11:08	92																			
+EXP	walk	14	  0:06:43	00:12:20	81		EXP	walk	14	  0:06:43	00:11:09	92																			
+EXP	walk	14	  0:06:44	00:12:21	82		EXP	walk	14	  0:06:44	00:11:10	91																			
+EXP	walk	14	  0:06:45	00:12:22	84		EXP	walk	14	  0:06:45	00:11:11	91																			
+EXP	walk	14	  0:06:46	00:12:23	85		EXP	walk	14	  0:06:46	00:11:12	91																			
+EXP	walk	14	  0:06:47	00:12:24	87		EXP	walk	14	  0:06:47	00:11:13	91																			
+EXP	walk	14	  0:06:48	00:12:25	88		EXP	walk	14	  0:06:48	00:11:14	90																			
+EXP	walk	14	  0:06:49	00:12:26	88		EXP	walk	14	  0:06:49	00:11:15	90																			
+EXP	walk	14	  0:06:50	00:12:27	87		EXP	walk	14	  0:06:50	00:11:16	91																			
+EXP	walk	14	  0:06:51	00:12:28	86		EXP	walk	14	  0:06:51	00:11:17	92																			
+EXP	walk	14	  0:06:52	00:12:29	85		EXP	walk	14	  0:06:52	00:11:18	93																			
+EXP	walk	14	  0:06:53	00:12:30	85		EXP	walk	14	  0:06:53	00:11:19	94																			
+EXP	walk	14	  0:06:54	00:12:31	85		EXP	walk	14	  0:06:54	00:11:20	94																			
+EXP	walk	14	  0:06:55	00:12:32	85		EXP	walk	14	  0:06:55	00:11:21	94																			
+EXP	walk	14	  0:06:56	00:12:33	85		EXP	walk	14	  0:06:56	00:11:22	94																			
+EXP	walk	14	  0:06:57	00:12:34	85		EXP	walk	14	  0:06:57	00:11:23	92																			
+EXP	walk	14	  0:06:58	00:12:35	84		EXP	walk	14	  0:06:58	00:11:24	92																			
+EXP	walk	14	  0:06:59	00:12:36	84		EXP	walk	14	  0:06:59	00:11:25	92																			
+EXP	run	14	  0:07:00	00:12:37	83		EXP	run	14	  0:07:00	00:11:26	93																			
+EXP	run	14	  0:07:01	00:12:38	83		EXP	run	14	  0:07:01	00:11:27	94																			
+EXP	run	14	  0:07:02	00:12:39	83		EXP	run	14	  0:07:02	00:11:28	95																			
+EXP	run	14	  0:07:03	00:12:40	83		EXP	run	14	  0:07:03	00:11:29	95																			
+EXP	run	14	  0:07:04	00:12:41	83		EXP	run	14	  0:07:04	00:11:30	95																			
+EXP	run	14	  0:07:05	00:12:42	83		EXP	run	14	  0:07:05	00:11:31	95																			
+EXP	run	14	  0:07:06	00:12:43	84		EXP	run	14	  0:07:06	00:11:32	94																			
+EXP	run	15	  0:07:07	00:12:44	84		EXP	run	15	  0:07:07	00:11:33	95																			
+EXP	run	15	  0:07:08	00:12:45	83		EXP	run	15	  0:07:08	00:11:34	95																			
+EXP	run	15	  0:07:09	00:12:46	84		EXP	run	15	  0:07:09	00:11:35	95																			
+EXP	run	15	  0:07:10	00:12:47	84		EXP	run	15	  0:07:10	00:11:36	94																			
+EXP	run	15	  0:07:11	00:12:48	83		EXP	run	15	  0:07:11	00:11:37	94																			
+EXP	run	15	  0:07:12	00:12:49	84		EXP	run	15	  0:07:12	00:11:38	93																			
+EXP	run	15	  0:07:13	00:12:50	83		EXP	run	15	  0:07:13	00:11:39	93																			
+EXP	run	15	  0:07:14	00:12:51	83		EXP	run	15	  0:07:14	00:11:40	93																			
+EXP	run	15	  0:07:15	00:12:52	83		EXP	run	15	  0:07:15	00:11:41	92																			
+EXP	run	15	  0:07:16	00:12:53	83		EXP	run	15	  0:07:16	00:11:42	92																			
+EXP	run	15	  0:07:17	00:12:54	83		EXP	run	15	  0:07:17	00:11:43	93																			
+EXP	run	15	  0:07:18	00:12:55	84		EXP	run	15	  0:07:18	00:11:44	93																			
+EXP	run	15	  0:07:19	00:12:56	84		EXP	run	15	  0:07:19	00:11:45	93																			
+EXP	run	15	  0:07:20	00:12:57	84		EXP	run	15	  0:07:20	00:11:46	93																			
+EXP	run	15	  0:07:21	00:12:58	83		EXP	run	15	  0:07:21	00:11:47	93																			
+EXP	run	15	  0:07:22	00:12:59	83		EXP	run	15	  0:07:22	00:11:48	93																			
+EXP	run	15	  0:07:23	00:13:00	82		EXP	run	15	  0:07:23	00:11:49	92																			
+EXP	run	15	  0:07:24	00:13:01	82		EXP	run	15	  0:07:24	00:11:50	92																			
+EXP	run	15	  0:07:25	00:13:02	82		EXP	run	15	  0:07:25	00:11:51	92																			
+EXP	run	15	  0:07:26	00:13:03	82		EXP	run	15	  0:07:26	00:11:52	92																			
+EXP	run	15	  0:07:27	00:13:04	81		EXP	run	15	  0:07:27	00:11:53	91																			
+EXP	run	15	  0:07:28	00:13:05	82		EXP	run	15	  0:07:28	00:11:54	90																			
+EXP	run	15	  0:07:29	00:13:06	81		EXP	run	15	  0:07:29	00:11:55	90																			
+EXP	walk	15	  0:07:30	00:13:07	81		EXP	walk	15	  0:07:30	00:11:56	89																			
+EXP	walk	15	  0:07:31	00:13:08	81		EXP	walk	15	  0:07:31	00:11:57	89																			
+EXP	walk	15	  0:07:32	00:13:09	81		EXP	walk	15	  0:07:32	00:11:58	89																			
+EXP	walk	15	  0:07:33	00:13:10	81		EXP	walk	15	  0:07:33	00:11:59	88																			
+EXP	walk	15	  0:07:34	00:13:11	81		EXP	walk	15	  0:07:34	00:12:00	88																			
+EXP	walk	15	  0:07:35	00:13:12	81		EXP	walk	15	  0:07:35	00:12:01	88																			
+EXP	walk	15	  0:07:36	00:13:13	80		EXP	walk	15	  0:07:36	00:12:02	87																			
+EXP	walk	16	  0:07:37	00:13:14	80		EXP	walk	16	  0:07:37	00:12:03	86																			
+EXP	walk	16	  0:07:38	00:13:15	81		EXP	walk	16	  0:07:38	00:12:04	86																			
+EXP	walk	16	  0:07:39	00:13:16	81		EXP	walk	16	  0:07:39	00:12:05	85																			
+EXP	walk	16	  0:07:40	00:13:17	81		EXP	walk	16	  0:07:40	00:12:06	85																			
+EXP	walk	16	  0:07:41	00:13:18	81		EXP	walk	16	  0:07:41	00:12:07	85																			
+EXP	walk	16	  0:07:42	00:13:19	81		EXP	walk	16	  0:07:42	00:12:08	85																			
+EXP	walk	16	  0:07:43	00:13:20	81		EXP	walk	16	  0:07:43	00:12:09	85																			
+EXP	walk	16	  0:07:44	00:13:21	81		EXP	walk	16	  0:07:44	00:12:10	85																			
+EXP	walk	16	  0:07:45	00:13:22	81		EXP	walk	16	  0:07:45	00:12:11	85																			
+EXP	walk	16	  0:07:46	00:13:23	81		EXP	walk	16	  0:07:46	00:12:12	85																			
+EXP	walk	16	  0:07:47	00:13:24	81		EXP	walk	16	  0:07:47	00:12:13	85																			
+EXP	walk	16	  0:07:48	00:13:25	81		EXP	walk	16	  0:07:48	00:12:14	85																			
+EXP	walk	16	  0:07:49	00:13:26	81		EXP	walk	16	  0:07:49	00:12:15	84																			
+EXP	walk	16	  0:07:50	00:13:27	81		EXP	walk	16	  0:07:50	00:12:16	85																			
+EXP	walk	16	  0:07:51	00:13:28	81		EXP	walk	16	  0:07:51	00:12:17	85																			
+EXP	walk	16	  0:07:52	00:13:29	81		EXP	walk	16	  0:07:52	00:12:18	85																			
+EXP	walk	16	  0:07:53	00:13:30	81		EXP	walk	16	  0:07:53	00:12:19	85																			
+EXP	walk	16	  0:07:54	00:13:31	81		EXP	walk	16	  0:07:54	00:12:20	86																			
+EXP	walk	16	  0:07:55	00:13:32	81		EXP	walk	16	  0:07:55	00:12:21	86																			
+EXP	walk	16	  0:07:56	00:13:33	81		EXP	walk	16	  0:07:56	00:12:22	86																			
+EXP	walk	16	  0:07:57	00:13:34	81		EXP	walk	16	  0:07:57	00:12:23	87																			
+EXP	walk	16	  0:07:58	00:13:35	81		EXP	walk	16	  0:07:58	00:12:24	88																			
+EXP	walk	16	  0:07:59	00:13:36	81		EXP	walk	16	  0:07:59	00:12:25	89																			
+EXP	eyes closed	16	  0:08:00	00:13:37	80		EXP	eyes closed	16	  0:08:00	00:12:26	89																			
+EXP	eyes closed	16	  0:08:01	00:13:38	80		EXP	eyes closed	16	  0:08:01	00:12:27	88																			
+EXP	eyes closed	16	  0:08:02	00:13:39	80		EXP	eyes closed	16	  0:08:02	00:12:28	83																			
+EXP	eyes closed	16	  0:08:03	00:13:40	80		EXP	eyes closed	16	  0:08:03	00:12:29	89																			
+EXP	eyes closed	16	  0:08:04	00:13:41	80		EXP	eyes closed	16	  0:08:04	00:12:30	88																			
+EXP	eyes closed	16	  0:08:05	00:13:42	80		EXP	eyes closed	16	  0:08:05	00:12:31	88																			
+EXP	eyes closed	16	  0:08:06	00:13:43	80		EXP	eyes closed	16	  0:08:06	00:12:32	88																			
+EXP	eyes closed	99	  0:08:07	00:13:44	80		EXP	eyes closed	99	  0:08:07	00:12:33	88																			
+EXP	eyes closed	99	  0:08:08	00:13:45	79		EXP	eyes closed	99	  0:08:08	00:12:34	88																			
+EXP	eyes closed	99	  0:08:09	00:13:46	79		EXP	eyes closed	99	  0:08:09	00:12:35	88																			
+EXP	eyes closed	99	  0:08:10	00:13:47	80		EXP	eyes closed	99	  0:08:10	00:12:36	88																			
+EXP	eyes closed	99	  0:08:11	00:13:48	80		EXP	eyes closed	99	  0:08:11	00:12:37	88																			
+EXP	eyes closed	99	  0:08:12	00:13:49	80		EXP	eyes closed	99	  0:08:12	00:12:38	88																			
+EXP	eyes closed	99	  0:08:13	00:13:50	80		EXP	eyes closed	99	  0:08:13	00:12:39	89																			
+EXP	eyes closed	99	  0:08:14	00:13:51	80		EXP	eyes closed	99	  0:08:14	00:12:40	89																			
+EXP	eyes closed	99	  0:08:15	00:13:52	80		EXP	eyes closed	99	  0:08:15	00:12:41	89																			
+EXP	eyes closed	99	  0:08:16	00:13:53	80		EXP	eyes closed	99	  0:08:16	00:12:42	88																			
+EXP	eyes closed	99	  0:08:17	00:13:54	81		EXP	eyes closed	99	  0:08:17	00:12:43	88																			
+EXP	eyes closed	99	  0:08:18	00:13:55	81		EXP	eyes closed	99	  0:08:18	00:12:44	88																			
+EXP	eyes closed	99	  0:08:19	00:13:56	80		EXP	eyes closed	99	  0:08:19	00:12:45	88																			
+EXP	eyes closed	99	  0:08:20	00:13:57	80		EXP	eyes closed	99	  0:08:20	00:12:46	89																			
+EXP	eyes closed	99	  0:08:21	00:13:58	80		EXP	eyes closed	99	  0:08:21	00:12:47	89																			
+EXP	eyes closed	99	  0:08:22	00:13:59	81		EXP	eyes closed	99	  0:08:22	00:12:48	89																			
+EXP	eyes closed	99	  0:08:23	00:14:00	81		EXP	eyes closed	99	  0:08:23	00:12:49	88																			
+EXP	eyes closed	99	  0:08:24	00:14:01	81		EXP	eyes closed	99	  0:08:24	00:12:50	87																			
+EXP	eyes closed	99	  0:08:25	00:14:02	81		EXP	eyes closed	99	  0:08:25	00:12:51	87																			
+EXP	eyes closed	99	  0:08:26	00:14:03	81		EXP	eyes closed	99	  0:08:26	00:12:52	87																			
+EXP	eyes closed	99	  0:08:27	00:14:04	81		EXP	eyes closed	99	  0:08:27	00:12:53	86																			
+EXP	eyes closed	99	  0:08:28	00:14:05	81		EXP	eyes closed	99	  0:08:28	00:12:54	86																			
+EXP	eyes closed	99	  0:08:29	00:14:06	81		EXP	eyes closed	99	  0:08:29	00:12:55	86																			
+END		99	  0:08:30	00:14:07	81		END		99	  0:08:30	00:12:56	86																			
+		99							99																						
+		99							99																						
+		99							99																						
+		99							99																						
+		99							99																						
+		99							99																						
